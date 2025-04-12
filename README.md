@@ -1,4 +1,5 @@
 ## Hi there 👋
+this is my first repository .Therefore,i will continue my study in this great page.
 
 <!--
 **lemmh/lemmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
